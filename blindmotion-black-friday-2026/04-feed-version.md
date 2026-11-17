@@ -4,23 +4,19 @@
 **Preferred format:** 4:5  
 **Optional second export:** 1:1
 
-## Objective
-Adapt the strongest approved Black Friday video to feed. This is **not** a new concept.
-
-## Source edit
-Prefer the **Hero Video**. If the Hero's dialogue/framing does not crop well, use the **ZipGrip / Outdoor Short** instead.
-
-## Requirements
-- Reframe shots rather than rebuilding the creative.
-- Keep faces, product proof and sale copy inside feed-safe zones.
-- Retain the same hierarchy:
-  **Product proof → Black Friday → 20% → BF20 → January production → 30 Nov deadline**
-- Keep the same audio mix unless a timing trim is required.
-- No new offer, no new deadline, no different CTA.
-- No broadcast footage or third-party stock.
-
-## Copy
-**20% OFF EVERYTHING ONLINE**  
-**CODE BF20**  
-**JANUARY PRODUCTION**  
+## Generic feed copy
+**BLACK FRIDAY**  
+**UP TO 20% OFF**  
+**SELECTED ONLINE RANGES**  
 **ENDS 30 NOV**
+
+Do not use:
+- 20% off everything
+- everything online
+- BF20 / any coupon code unless Phil later approves it
+
+If adapting the Roller-specific creative, it may explicitly say:
+**20% OFF ROLLER BLINDS**
+
+## Direction
+Adapt the Hero rather than creating a new concept. Reframe for safe zones and retain product proof first.
