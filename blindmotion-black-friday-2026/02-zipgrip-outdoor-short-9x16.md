@@ -1,44 +1,52 @@
-# 02 — Black Friday Short Variant: ZipGrip / Outdoor 9:16
+# 02 — Black Friday ZipGrip / Outdoor Short 9:16
 
 **Deadline:** 24 November 2026  
 **Duration:** 10–15 sec  
 **Format:** 9:16
 
 ## Objective
-Create a fast standalone Meta ad where ZipGrip is visually obvious within the first two seconds.
+Use Black Friday as the event frame while protecting ZipGrip value.
+
+**Do not advertise ZipGrip as 20% off.**
+
+## Allowed generic offer language
+Preferred:
+**BLACK FRIDAY**  
+**UP TO 20% OFF SELECTED ONLINE RANGES**
+
+Alternative:
+**BLACK FRIDAY EVENT**  
+**ENDS 30 NOV**
+
+Do not show BF20 or a coupon code.
 
 ## Source
 Koolewong RAW:
 https://drive.google.com/drive/folders/1ArN13Qh9o3lSlMXOnHmMxDYpXANcT3BP
 
-Useful after/drone folders:
-- https://drive.google.com/drive/folders/193iaJE16TXx6T_1RVE7ABUqdN9uE6Wq6
-- https://drive.google.com/drive/folders/1Xts-vWjqADcDXGtfVc5AiaM5i22Vv6Gj
+After drone:
+https://drive.google.com/drive/folders/1Xts-vWjqADcDXGtfVc5AiaM5i22Vv6Gj
 
-## Recommended paper edit
+## Preferred dialogue — choose ONE
+- C574 00:04.93–00:09.53
+- C570 00:15.58–00:23.88
+- C604 00:02.16–00:07.52
 
+## Paper edit
 ### 0:00–0:02
-**Picture:** strongest immediate ZipGrip proof — waterfront after, blind moving, or side-retention detail.  
-**Text:** BLACK FRIDAY.
+Unmistakable ZipGrip product proof.  
+Text: **BLACK FRIDAY**
 
 ### 0:02–0:07
-Use **ONE** complete spoken idea:
-- C574 00:04.93–00:09.53, or
-- C570 00:15.58–00:23.88, or
-- C604 00:02.16–00:07.52.
-
-Do not stitch two quotes together.
+One complete customer/founder line.
 
 ### 0:07–0:11
-**Picture:** guide, fabric, movement, finished patio and/or drone.  
-**Text:** 20% OFF EVERYTHING ONLINE / BF20.
+Guide/fabric/movement/finished patio.  
+Text: **UP TO 20% OFF SELECTED ONLINE RANGES**
 
 ### 0:11–0:15
-**Picture:** finished wide / product hero.  
-**Text:** JANUARY PRODUCTION / ENDS 30 NOV.
+Finished wide.  
+Text: **ENDS 30 NOV** plus the correct production message for the date.
 
-## Audio
-Original dialogue if used, otherwise music + natural sound. No broadcast footage or AI voice-over.
-
-## QA
-Product proof first. Sale layer second. Final mix approximately -1.2 dBTP maximum.
+## Principle
+ZipGrip should look desirable, not marked down or cleared. Product proof is the hero.
